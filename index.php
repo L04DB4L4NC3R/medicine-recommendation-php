@@ -8,12 +8,22 @@
 				<body>
 
 								  <nav>
+    <nav>
     <div class="nav-wrapper">
-      <div class="col s12">
-      </div>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="views/admin.php">Add a doctor recommendation</a></li>
+        <li><a href="views/dashboard.php">View Dashboard</a></li>
+      </ul>
     </div>
   </nav>
 
+<h2 align="center">
+	Medicine Recommendation System
+</h2>
+
+<h3 align="center">
+	Signup or Login
+</h3>
 
   <div class="h-100 row align-items-center">
     <div class="input-field col s6">

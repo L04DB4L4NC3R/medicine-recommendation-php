@@ -7,10 +7,13 @@
 
 				<body>
 
-								  <nav>
+    <nav>
     <div class="nav-wrapper">
-      <div class="col s12">
-      </div>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="admin.php">Add a doctor recommendation</a></li>
+        <li><a href="dashboard.php">View Dashboard</a></li>
+        <li><a href="../index.php">User side</a></li>
+      </ul>
     </div>
   </nav>
 
