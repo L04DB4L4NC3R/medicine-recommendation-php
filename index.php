@@ -28,6 +28,7 @@
 			<br>
 
 			<button class="waves-effect waves-light btn">Submit</button>
+			<a class="waves-effect waves-light btn" href="views/login.php">Or login</a>
 			<form>
     </div>
   </div>
